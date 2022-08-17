@@ -1,10 +1,3 @@
-Microsoft 365 works:
-- Sharepoint,
-- Teams,
-- Power Apps,
-- Power Automate,
-- AD
+SharePoint Works:
 
-Azure works:
-- Azure AD, 
-- Azure Devops
+- Project (The Best Car Company)
